@@ -1,2 +1,2 @@
-# curriculo-vitae-lac-qua
-Este é um repositorio pra fazer algo
+# meu nome gustavo
+Este é um repositorio pra fazer algo blablavla
